@@ -1,0 +1,9 @@
+Profe hice lo que pude, pero no lo pude terminar, literal llevo mas de 8 horas sentado 
+y lo tendre que pasar tal y como lo subo al GIT.
+
+Conozco como crear las BD, el llenado de estas
+Y la creacion de sus procedimientos de almacenado.
+
+Tambien atomise la informacion y la separe en tablas como lo solicitaste usando el proceso SOLID.
+
+Entiendo toda la materia del examen y como implementarla, solo me falto tiempo profesor.
